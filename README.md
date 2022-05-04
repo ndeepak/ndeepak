@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on  myself.
-- 🌱 I’m currently learning Python and Java.
+- 🔭 I’m currently a student of computer science.
+- 🌱 I’m currently learning Cyber Security Stuffs.
 - 👯 I’m looking to collaborate on Python.
 - 🤔 I’m looking for help with Javascript.
 - 💬 Ask me about  My learns or anything you want to ask.
