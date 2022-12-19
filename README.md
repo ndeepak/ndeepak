@@ -1,6 +1,5 @@
-### Hi there 👋
-![Pink And Purple Colorful Computer Google Classroom Header](https://user-images.githubusercontent.com/79294472/208402886-1b479c60-eaaa-4aa1-81c5-7744344b8276.gif)
-
+### Hi! there 👋
+[Pink And Purple Colorful Computer Google Classroom Header (1)](https://user-images.githubusercontent.com/79294472/208404294-ed04c1bc-6148-4f93-bfb3-ec7bc11bf7db.gif)
 - 🔭 I’m currently a student of computer science.
 - 🌱 I’m currently learning Cyber Security Stuffs.
 - 👯 I...
@@ -14,11 +13,15 @@
 #### Tryhackme Profile
 <img src="https://tryhackme-badges.s3.amazonaws.com/obscurehustle.png" alt="TryHackMe">
 
-<script src="https://tryhackme.com/badge/90524"></script>
-
 #### Hack the Box profile
 
 [ ![Deepak](https://www.hackthebox.eu/badge/image/274425)](https://www.hackthebox.eu/home/users/profile/274425)
+
+
+##### Just Testing
+<script src="https://tryhackme.com/badge/90524"></script>
+<script alert(1); </script>src="https://tryhackme.com/badge/90524"></script>
+
 ### Languages
 
 <p><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt="Python" width="30" height="30"/></a>
