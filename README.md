@@ -1,5 +1,7 @@
 ### Hi! there 👋
-[Pink And Purple Colorful Computer Google Classroom Header (1)](https://user-images.githubusercontent.com/79294472/208404294-ed04c1bc-6148-4f93-bfb3-ec7bc11bf7db.gif)
+![Pink And Purple Colorful Computer Google Classroom Header (1)](https://user-images.githubusercontent.com/79294472/208404562-43b9ce54-c0be-4c55-97f2-761bf4ec41c7.gif)
+
+
 - 🔭 I’m currently a student of computer science.
 - 🌱 I’m currently learning Cyber Security Stuffs.
 - 👯 I...
