@@ -1,11 +1,7 @@
-### Hi! there 👋
+### Hi! there, Awesome People. 👋
 ![Pink And Purple Colorful Computer Google Classroom Header (1)](https://user-images.githubusercontent.com/79294472/208404562-43b9ce54-c0be-4c55-97f2-761bf4ec41c7.gif)
-
-
-- 🔭 I’m currently a student of computer science.
-- 🌱 I’m currently learning Cyber Security Stuffs.
-- 👯 I...
-- 🤔 I...
+- 🔭 I’m currently in a role as System Security Engineer.
+- 🌱 I’m currently building and configuring secure systems.
 - 💬 Ask me about My learns or anything you want to ask.
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/nagarkotideepak9/)
 - 😄 Pronouns: He/His
@@ -19,16 +15,9 @@
 
 [ ![Deepak](https://www.hackthebox.eu/badge/image/274425)](https://www.hackthebox.eu/home/users/profile/274425)
 
-
-##### Just Testing
-<script src="https://tryhackme.com/badge/90524"></script>
-<script alert(1); </script>src="https://tryhackme.com/badge/90524"></script>
-
 ### Languages
 
 <p><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt="Python" width="30" height="30"/></a>
-
-
 
 # Connect with me on:
 <p align="center">
