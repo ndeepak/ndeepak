@@ -1,12 +1,11 @@
 ### Hi! there, Awesome People. 👋
 ![Pink And Purple Colorful Computer Google Classroom Header (1)](https://user-images.githubusercontent.com/79294472/208404562-43b9ce54-c0be-4c55-97f2-761bf4ec41c7.gif)
-- 🔭 I’m currently in a role as System Security Engineer.
-- 🌱 I’m currently building and configuring secure systems.
+- 🔭 I’m currently in a role as System Security Engineer in a company.
+- 🌱 I’m currently building and configuring secure systems and practicing some secure devops practices.
 - 💬 Ask me about My learns or anything you want to ask.
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/nagarkotideepak9/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: if the moon has moonquakes, why milk have milkshakes? because milk is obtained by shaking😁😁
-
+- 
 ![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=ndeepak&show_icons=true&theme=nightowl)
 #### Tryhackme Profile
 <img src="https://tryhackme-badges.s3.amazonaws.com/obscurehustle.png" alt="TryHackMe">
