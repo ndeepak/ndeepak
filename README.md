@@ -5,7 +5,9 @@
 - 💬 Ask me about My learns or anything you want to ask.
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/nagarkotideepak9/)
 - 😄 Pronouns: He/His
-- 
+
+---
+
 ![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=ndeepak&show_icons=true&theme=nightowl)
 #### Tryhackme Profile
 <img src="https://tryhackme-badges.s3.amazonaws.com/obscurehustle.png" alt="TryHackMe">
