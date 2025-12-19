@@ -23,7 +23,7 @@
   <a href="https://in.linkedin.com/in/nagarkotideepak9" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ndeepak"/>
   </a> 
-  <a href="https://obscurehustle.medium.com" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="ndeepak" /></a> 
+  <a href="https://nagarkotideepak9.medium.com" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="ndeepak" /></a> 
   <a href="https://twitter.com/ndeepak_" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
     <a href="https://dev.to/ndeepak" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ndeepak" /></a>
     <a href="https://www.instagram.com/ndeepak_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
