@@ -31,7 +31,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndeepak&layout=compact&hide=roff&theme=onedark)](https://github.com/ndeepak/)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ndeepak&theme=onedark)](https://github.com/ndeepak)
-
-![Profile views](https://gpvc.arturio.dev/ndeepak)
